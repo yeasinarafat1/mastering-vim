@@ -2,6 +2,25 @@
 
 ---
 
+## Installation Instructions
+
+1. **Windows**:  
+   Download the official installer from [vim.org](https://www.vim.org/download.php) and follow the setup process.  
+   Alternatively, use **Chocolatey** or **Scoop** to install Vim:
+   - Chocolatey: `choco install vim -y`
+   - Scoop: `scoop install vim`
+
+2. **Linux**:  
+   Use your package manager:
+   - For Ubuntu/Debian: `sudo apt install vim`
+   - For Fedora: `sudo dnf install vim`
+   - For Arch: `sudo pacman -S vim`
+
+3. **macOS**:  
+   Install Vim via **Homebrew**: `brew install vim`
+
+---
+
 ## MODES
 - **Esc**: Enter Normal mode.
 - **i**: Enter Insert mode.
